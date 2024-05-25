@@ -1,6 +1,6 @@
 # vector-template-class
 
-A template of classes of an abstract data structure with a definition of specified functions and operations (a copy constructor and an assignment operation are defined in the template class) and
+(06.06.2021) A template of classes of an abstract data structure with a definition of specified functions and operations (a copy constructor and an assignment operation are defined in the template class) and
 corresponding class diagram. Wrote a test program that verifies the use of the template for standard data types using the example of a vector.
 
 Template vector classes for saving elements of arbitrary type. The size of the vector and the size of its maximum expansion
